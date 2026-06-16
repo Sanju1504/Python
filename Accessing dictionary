@@ -1,0 +1,5 @@
+student={"Name":"Kiran","Age":22,"Reg no":562,"Branch":"CSE"}
+print("Name:",student["Name"])
+print("Age:",student["Age"])
+print("Reg no:",student["Reg no"])
+print("Branch:",student["Branch"])
