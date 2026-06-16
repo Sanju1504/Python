@@ -1,0 +1,10 @@
+student={"Name":"Kiran","Age":22,"Reg no":562,"Branch":"CSE"}
+print("Key are:")
+for x in student:
+    print(x)
+    print("Values are:")
+    for x in student:
+        print(student[x])
+        print("Keys and values are:")
+        for x,y in student.items():#student items return key value pairs
+            print(x,y)#x-key;y-value
