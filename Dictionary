@@ -1,0 +1,8 @@
+my_dict={}
+my_dict1=dict()
+print("The empty dictionary is:",my_dict)
+print("The empty dictionary is:",my_dict)
+Student={"Name":"Kiran","Age":"22","Reg no":"562","Branch":"CSE"}
+print(student)
+student=dict({"Name":"Kiran","Age":"22","Branch":"CSE"})
+print(student)
