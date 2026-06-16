@@ -1,0 +1,3 @@
+Student={"Name":"Kiran","Age":22,"Reg no":562,"Branch":"CSE"}
+dict_items_view=Student.items()
+print("Original items:",dict_items_view)
